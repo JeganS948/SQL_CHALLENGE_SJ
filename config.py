@@ -1,1 +1,0 @@
-connection_str = 'postgres://gtbzsuvk:MUUjShN0qYeY2P1dj_qYVkIQbbwdnSSK@suleiman.db.elephantsql.com:5432/gtbzsuvk'
